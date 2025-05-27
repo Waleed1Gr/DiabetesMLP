@@ -7,7 +7,7 @@ A machine learning project using a Multi-Layer Perceptron (MLP) model to predict
 This project focuses on predicting whether a patient has diabetes using the **Pima Indians Diabetes Dataset**. The model is built using Keras with TensorFlow backend and saved as an `.h5` file for deployment. The frontend is developed using Streamlit to provide interactive model predictions.
 
 ## 📁 Repository Structure
-
+<pre>
 DiabetesMLP/
 ├── DiabetesMLP.ipynb # Jupyter Notebook for data processing and training
 ├── Model.h5 # Trained MLP model
@@ -15,7 +15,7 @@ DiabetesMLP/
 │ ├── app.py # Streamlit web app
 │ └── requirements.txt # List of dependencies for the app
 └── README.md # Project documentation
-
+</pre>
 
 ## 📊 Dataset
 
